@@ -8,6 +8,9 @@
         <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
         <img src="https://badges.pufler.dev/commits/monthly/Anu26092002" />
 </div>
+<br/>
+<hr/>
+<br/>
 <h2>📊 My Stats</h2>
 <a href="https://github.com/Anu26092002">
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Most Used Languages" />
@@ -17,8 +20,10 @@
 </a>
 <br/>
 <a href="https://github.com/Anu26092002">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
+    <img height="150" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
 </a>
+<br/>
+<hr/>
 <br/>
 <h2>🧩 Technologies worked with</h2>
 <p align="left">
