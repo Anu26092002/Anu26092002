@@ -42,7 +42,7 @@
 
 <div align="center"> 
     <details>
-        <h1><summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary></h1>
+        <summary><b style="font-size:30px">🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
         <br/>
         <p align="center">
             <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
