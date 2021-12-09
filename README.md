@@ -72,6 +72,8 @@
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"title="Dart"/>
         &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" title="Flutter"/>
+        &nbsp;
     </p>
 </div>
 
