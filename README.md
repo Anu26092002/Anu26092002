@@ -5,13 +5,9 @@
 </div>
 
 <div align="center">
-    <ul>
-        <li><a href="#"><i class="fab fa-facebook" aria-hidden="true"></i></a></li>
-        <li><a href="#"><i class="fab fa-twitter" aria-hidden="true"></i></a></li>
-        <li><a href="#"><i class="fab fa-google-plus-g" aria-hidden="true"></i></a></li>
-        <li><a href="#"><i class="fab fa-linkedin" aria-hidden="true"></i></a></li>
-        <li><a href="#"><i class="fab fa-instagram" aria-hidden="true"></i></a></li>
-    </ul>
+    <a href="#">
+        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon"/>
+    </a>
 </div>
 
 <br/>
