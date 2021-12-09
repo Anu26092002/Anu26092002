@@ -28,7 +28,7 @@
     </a>
     <br/>
     <a href="https://github.com/Anu26092002">
-        <img height="250"  width="300" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
+        <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
     </a>
 </div>
 <br/>
