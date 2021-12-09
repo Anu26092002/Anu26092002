@@ -2,6 +2,9 @@
     <h1>Hello! I'm Anurag Ghosh
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     </h1>
+</div>
+<br/>
+<div align="center">
     <p align="center">
         <a href="https://discord.gg/XTW52Kt">
             <img align="left" alt="Anurag's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
