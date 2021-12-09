@@ -15,7 +15,7 @@
         <img align="left" alt="Anurag's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
     </a>
 </div>
-
+<br/>
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
     &nbsp;
