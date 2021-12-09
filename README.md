@@ -4,20 +4,7 @@
     </h1>
 </div>
 <div align="center">
-    <p align="center">
-        <a href="https://discord.gg/XTW52Kt" align="center">
-            <img align="left" alt="Anurag's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-        </a>
-        <a href="https://twitter.com/abhisheknaiidu" align="center">
-            <img align="left" alt="Anurag Ghosh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-        </a>
-        <a href="https://www.linkedin.com/in/abhisheknaiidu/" align="center">
-            <img align="left" alt="Anurag's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-        </a>
-        <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g" align="center">
-            <img align="left" alt="Anurag's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-        </a>
-    </p>
+    <h1>Hi</h1>
 </div>
 <br/>
 <div align="center"> 
