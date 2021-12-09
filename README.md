@@ -56,7 +56,7 @@
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40" title="HTML5" />
         &nbsp;
-        <img src="https://www.pngitem.com/pimgs/m/198-1985012_transparent-css3-logo-png-css-logo-transparent-background.png" alt="heroku" width="40" height="40" title="CSS3" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/768px-CSS3_logo.svg.png" alt="heroku" width="40" height="40" title="CSS3" />
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/>
         &nbsp;
