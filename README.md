@@ -5,6 +5,16 @@
 - 📫 Reach me through <a href="mailto:ghoshanurag495@gmail.com">Email</a>,
                        <a href="https://www.linkedin.com/in/anurag-g-a01531198/">LinkedIn</a>
                        
+<div align="center"> 
+    <h1>Hello stranger! I'm Devansh Shah 
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+    </h1> 
+    <p align="center">
+        <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20and%20app%20developer;Self-taught%20Programmer;
+        Would%20love%20to%20collaborate!;
+        Always%20learning%20new%20stuff&center=true&width=380&height=45"></a>
+    </p> 
+</div>
 <div style="text-align: center;"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
     &nbsp;
