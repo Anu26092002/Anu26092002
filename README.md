@@ -4,8 +4,9 @@
 - 💞️ I’m looking to collaborate on projects which can add value.
 - 📫 Reach me through <a href="mailto:ghoshanurag495@gmail.com">Email</a>,<a href="https://www.linkedin.com/in/anurag-g-a01531198/">LinkedIn</a>
 
-<div style="align-items: center;"> 
+<div style="text-align: center;"> 
         <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
+        &nbsp;
         <img src="https://badges.pufler.dev/commits/monthly/Anu26092002" />
 </div>
 <br/>
