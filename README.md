@@ -38,11 +38,11 @@
 <div style="text-align: center;"> 
     <h2>🧩 Technologies worked with</h2>
     <p align="left">
+        <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
+        &nbsp;
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40" title="Java"/>
-        &nbsp;
-        <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="canva" width="40" height="40" title="R"/>
         &nbsp;
