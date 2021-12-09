@@ -5,28 +5,28 @@
 </div>
 
 <div align="center">
-    <a href="#">
+    <a href="https://github.com/Anu260920025">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
-    <a href="#">
+    <a href="https://linkedin.com/in/anurag-g-a01531198" target="_blank">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
-    <a href="#">
+    <a href="https://twitter.com/AnuragG36973328" target="_blank">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
-    <a href="#">
+    <a href="https://www.instagram.com/just_anurag_995/" target="_blank">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
-    <a href="#">
+    <a href="https://facebook.com/anurag.ghosh.92798" target="_blank">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
-    <a href="#">
+    <a href="mailto:ghoshanurag495@gmail.com">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
-    <a href="#">
+    <a href="https://www.hackerrank.com/anurag_ghosh1" target="_blank">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
-    <a href="#">
+    <a href="https://codepen.io/anu26092002-the-styleful" target="_blank">
         <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
     </a>
 </div>
