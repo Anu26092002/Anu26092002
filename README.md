@@ -7,6 +7,7 @@
 <div align="center">
     <details>
         <summary><b>:hugs:&nbsp;Find Me on</b></summary>
+        <br/>
         <p>
             <a href="https://github.com/Anu260920025">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="Github icon" width="30" height="30"/>
