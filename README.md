@@ -69,6 +69,9 @@
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="40" height="40" title="React JS"/>
         &nbsp;
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40"title="TypeScript"/>
+        &nbsp;
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"title="Dart"/>
+        &nbsp;
     </p>
 </div>
 
