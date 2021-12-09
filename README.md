@@ -34,7 +34,7 @@
     </a>
     &nbsp;
     <a href="https://codepen.io/anu26092002-the-styleful" target="_blank">
-        <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="CodePen icon" width="30" height="30"/>
+        <img src="https://cdn0.iconfinder.com/data/icons/social-media-2091/100/social-32-512.png" alt="CodePen icon" width="30" height="30"/>
     </a>
 </div>
 
