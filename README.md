@@ -4,14 +4,15 @@
 - 💞️ I’m looking to collaborate on projects which can add value.
 - 📫 Reach me through <a href="mailto:ghoshanurag495@gmail.com">Email</a>,
                        <a href="https://www.linkedin.com/in/anurag-g-a01531198/">LinkedIn</a>
+ 
                        
 <div align="center"> 
     <h1>Hello! I'm Anurag
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     </h1> 
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+and+App+Developer;AI%2FML+Enthusiast;Self-taught+Programmer)](https://git.io/typing-svg)
 </div>
-<div style="text-align: center;"> 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+and+App+Developer;AI%2FML+Enthusiast;Self-taught+Programmer)](https://git.io/typing-svg)
+<div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
     &nbsp;
     <img src="https://badges.pufler.dev/commits/monthly/Anu26092002" />
@@ -23,7 +24,7 @@
 
 <br/>
 
-<div style="text-align: center;"> 
+<div align="center"> 
     <h2>📊 My Stats</h2>
     <a href="https://github.com/Anu26092002">
         <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Most Used Languages" />
@@ -43,7 +44,7 @@
 
 <br/>
 
-<div style="text-align: center;"> 
+<div align="center"> 
     <h2>🧩 Technologies worked with</h2>
     <p align="left">
         <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
