@@ -26,7 +26,7 @@
     <a href="https://github.com/Anu26092002">
         <img height="250"  width="300" src="https://github-readme-stats.vercel.app/api?username=Anu26092002&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Stats" />
     </a>
-    &nbsp;
+    <br/>
     <a href="https://github.com/Anu26092002">
         <img height="250"  width="300" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
     </a>
