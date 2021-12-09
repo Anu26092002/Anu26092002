@@ -8,6 +8,7 @@
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
     &nbsp;
     <img src="https://badges.pufler.dev/commits/monthly/Anu26092002" />
+    <img src="https://visitor-badge.glitch.me/badge?page_id=Anu26092002" />
 </div>
 
 <br/>
