@@ -29,10 +29,6 @@
                 <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook icon" width="30" height="30"/>
             </a>
             &nbsp;
-            <a href="mailto:ghoshanurag495@gmail.com">
-                <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="GMail icon" width="30" height="30"/>
-            </a>
-            &nbsp;
             <a href="https://www.hackerrank.com/anurag_ghosh1" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="Hackerrank icon" width="30" height="30"/>
             </a>
