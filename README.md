@@ -6,15 +6,15 @@
 
 <div align="center">
     <a href="https://github.com/Anu260920025">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="Github icon" width="30" height="30"/>
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/anurag-g-a01531198" target="_blank">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
+        <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn icon" width="30" height="30"/>
     </a>
     &nbsp;
     <a href="https://twitter.com/AnuragG36973328" target="_blank">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
+        <img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter icon" width="30" height="30"/>
     </a>
     &nbsp;
     <a href="https://www.instagram.com/just_anurag_995/" target="_blank">
@@ -22,19 +22,19 @@
     </a>
     &nbsp;
     <a href="https://facebook.com/anurag.ghosh.92798" target="_blank">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
+        <img src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="Facebook icon" width="30" height="30"/>
     </a>
     &nbsp;
     <a href="mailto:ghoshanurag495@gmail.com">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
+        <img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="GMail icon" width="30" height="30"/>
     </a>
     &nbsp;
     <a href="https://www.hackerrank.com/anurag_ghosh1" target="_blank">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/900px-HackerRank_Icon-1000px.png" alt="Hackerrank icon" width="30" height="30"/>
     </a>
     &nbsp;
     <a href="https://codepen.io/anu26092002-the-styleful" target="_blank">
-        <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" alt="instagram icon" width="30" height="30"/>
+        <img src="https://blog.codepen.io/wp-content/uploads/2012/06/Button-Fill-Black-Large.png" alt="CodePen icon" width="30" height="30"/>
     </a>
 </div>
 
