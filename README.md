@@ -18,7 +18,7 @@
 <br/>
 
 <div style="text-align: center;"> 
-    <h2>📊 My Stats</h2>
+    <h2 style="text-align: center;">📊 My Stats</h2>
     <a href="https://github.com/Anu26092002">
         <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Most Used Languages" />
     </a>
