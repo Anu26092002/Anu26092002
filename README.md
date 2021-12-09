@@ -1,19 +1,21 @@
 <div align="center"> 
     <h1>Hello! I'm Anurag Ghosh
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-    </h1> 
-    <a href="https://discord.gg/XTW52Kt">
-        <img align="left" alt="Anurag's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-    </a>
-    <a href="https://twitter.com/abhisheknaiidu">
-        <img align="left" alt="Anurag Ghosh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-    </a>
-    <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-        <img align="left" alt="Anurag's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-    </a>
-    <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-        <img align="left" alt="Anurag's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-    </a>
+    </h1>
+    <p align="center">
+        <a href="https://discord.gg/XTW52Kt">
+            <img align="left" alt="Anurag's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+        </a>
+        <a href="https://twitter.com/abhisheknaiidu">
+            <img align="left" alt="Anurag Ghosh | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+        </a>
+        <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+            <img align="left" alt="Anurag's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+        </a>
+        <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+            <img align="left" alt="Anurag's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+        </a>
+    </p>
 </div>
 <br/>
 <div align="center"> 
