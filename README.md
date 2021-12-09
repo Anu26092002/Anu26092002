@@ -1,17 +1,9 @@
-- 👋 Hi, I’m Anurag Ghosh
-- 👀 I’m interested in Web Development, Frontend Development,Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning IT Engineering at K.J. Somaiya College of Engineering.
-- 💞️ I’m looking to collaborate on projects which can add value.
-- 📫 Reach me through <a href="mailto:ghoshanurag495@gmail.com">Email</a>,
-                       <a href="https://www.linkedin.com/in/anurag-g-a01531198/">LinkedIn</a>
- 
-                       
 <div align="center"> 
-    <h1>Hello! I'm Anurag
+    <h1>Hello! I'm Anurag Ghosh
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     </h1> 
 </div>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Web+and+App+Developer;AI%2FML+Enthusiast;Self-taught+Programmer)](https://git.io/typing-svg)
+
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
     &nbsp;
