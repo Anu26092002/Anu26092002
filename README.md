@@ -3,16 +3,13 @@
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
     </h1>
 </div>
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <div align="center">
+    <a href="www.google.com">a</a>
 </div>
+
 <br/>
+
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Anu26092002" />
     &nbsp;
