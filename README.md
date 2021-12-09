@@ -12,7 +12,9 @@
 </div>
 
 <br/>
-<hr/>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
+
 <br/>
 
 <div style="text-align: center;"> 
@@ -28,7 +30,9 @@
     </a>
 </div>
 <br/>
-<hr/>
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
+
 <br/>
 
 <div style="text-align: center;"> 
