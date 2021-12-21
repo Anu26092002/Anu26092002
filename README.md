@@ -1,6 +1,6 @@
 <div align="center"> 
     <h1>Hello! I'm Anurag Ghosh
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave gif"> 
     </h1>
 </div>
 
@@ -71,7 +71,7 @@
     </a>
     <p align="center"> 
     <a href="https://github.com/Anu26092002">
-        <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="shettynik" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
     </a> 
 </p>
 </div>
