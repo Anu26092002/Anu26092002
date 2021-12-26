@@ -73,9 +73,6 @@
     <a href="https://github.com/Anu26092002">
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
     </a> 
-    <a href="https://github.com/Anu26092002">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&theme=dark" alt="Anurag's top languages"/>
-    </a>
 </div>
 <br/>
 
