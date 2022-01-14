@@ -74,6 +74,7 @@
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
     </a> 
     <br/>
+    <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://activity-graph.herokuapp.com/graph?username=Anu26092002&theme=dracula" alt="Anurag's contribution graph" />
     </a> 
