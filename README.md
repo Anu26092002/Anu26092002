@@ -70,9 +70,11 @@
         <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
     </a>
     <br/>
+    <div align="center">
     <a href="https://github.com/Anu26092002">
-        <img align="center" src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
     </a> 
+    </div>
     <br/>
     <br/>
     <a href="https://github.com/Anu26092002">
