@@ -61,7 +61,6 @@
     <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&margin-w=10" alt="Anurag's profile trophies" />
-        <br/>
         <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Most Used Languages" />
     </a>
     &nbsp;
