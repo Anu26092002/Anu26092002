@@ -9,7 +9,7 @@
         <summary><b>:hugs:&nbsp;Find Me on</b></summary>
         <br/>
         <p>
-    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <img src="https://github.com/Anu26092002/Anu26092002/blob/main/example.svg" width="400" height="400" alt="css-in-readme">
             <a href="https://github.com/Anu260920025">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="Github icon" width="30" height="30"/>
             </a>
