@@ -58,6 +58,11 @@
 
 <div align="center"> 
     <h2>📊 My Stats</h2>
+    <br/>
+    <a href="https://github.com/Anu26092002">
+        <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
+    </a>
+    <br/>
     <a href="https://github.com/Anu26092002">
         <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Most Used Languages" />
     </a>
@@ -69,11 +74,6 @@
     <a href="https://github.com/Anu26092002">
         <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
     </a>
-    <br/>
-    <a href="https://github.com/Anu26092002">
-        <img style="transform: translateX(20%);" src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
-    </a>
-    <br/>
     <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://activity-graph.herokuapp.com/graph?username=Anu26092002&theme=dracula" alt="Anurag's contribution graph" />
