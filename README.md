@@ -59,6 +59,28 @@
 <div align="center"> 
     <h2>📊 My Stats</h2>
     <br/>
+    <svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+            h1 {
+                color: red;
+                animation: mymove 2s infinite;
+            }
+
+            @keyframes mymove {
+                from {
+                    color: red;
+                }
+                to {
+                    color: yellow;
+                }
+            }
+            </style>
+            <h1>HELLO WORLD!</h1>
+        </div>
+    </foreignObject>
+</svg>
     <a href="https://github.com/Anu26092002">
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
         <br/>
