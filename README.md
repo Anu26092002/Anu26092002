@@ -142,6 +142,10 @@
 <div align="center">
     <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 </div>
+
+<div align="center">
+<img src="example.svg" />
+</div>
 <!---
 Anu26092002/Anu26092002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
