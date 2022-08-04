@@ -132,18 +132,12 @@
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
             &nbsp;
         </p>
-</div>
-<br/>
-<div align="center">
-    <details>
-        <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
         <br/>
         <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
-        <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'/>
+        <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api username=Anu26092002&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue' alt="image"/>
         </a>
-
-     </details>
 </div>
+<br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
 
