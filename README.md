@@ -59,6 +59,9 @@
     <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
+        <br/>
+        <img src="https://github.com/Anu26092002/Anu26092002/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+        <br/>
         <img height="300" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu26092002&&hide_title=false&hide_border=true&layout=compact&langs_count=8&exclude_repo=comp426&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Most Used Languages" />
     </a>
     &nbsp;
@@ -74,9 +77,6 @@
         <img src="https://activity-graph.herokuapp.com/graph?username=Anu26092002&theme=dracula" alt="Anurag's contribution graph" />
     </a>
     <br/>
-    <a href="https://github.com/Anu26092002">
-        <img src="https://github.com/Anu26092002/Anu26092002/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
-    </a>
 </div>
 <br/>
    
