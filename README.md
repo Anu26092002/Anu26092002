@@ -84,7 +84,7 @@
 
 <div align="center"> 
     <details>
-        <summary><b>🛠️&nbsp;&nbsp;Programming Languages&nbsp;and&nbsp;Tools</b></summary>
+        <summary><b>🛠️&nbsp;&nbsp;Programming Languages, Frameworks&nbsp;and&nbsp;Tools</b></summary>
         <br/>
         <p align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" alt="Word" width="40" height="40" title="MS Word"/>
