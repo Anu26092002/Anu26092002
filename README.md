@@ -57,7 +57,7 @@
 <br/>
 
 <div align="center"> 
-    <h2>📊 My Stats</h2>
+    <h3>📊 My Stats</h3>
     <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
@@ -84,7 +84,7 @@
 
 <div align="center"> 
     <details>
-        <summary><b>🛠️&nbsp;&nbsp;Programming Languages, Frameworks&nbsp;and&nbsp;Tools</b></summary>
+        <summary><h3><b>🛠️&nbsp;&nbsp;Programming Languages, Frameworks&nbsp;and&nbsp;Tools</b></h3></summary>
         <br/>
         <p align="center">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" alt="Word" width="40" height="40" title="MS Word"/>
