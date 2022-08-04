@@ -132,7 +132,7 @@
         </p>
         <br/>
         <a href="https://profile.codersrank.io/user/Anu26092002/">
-        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Anu26092002&bg=#0f0f0f" alt="Please refresh the page if the graph doesn't show up."/>
+        <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Anu26092002" alt="Please refresh the page if the graph doesn't show up."/>
         </a>
 </div>
 <br/>
