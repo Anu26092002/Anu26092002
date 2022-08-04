@@ -69,10 +69,6 @@
     </a>
     <br/>
     <a href="https://github.com/Anu26092002">
-        <img src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Anu26092002&hide_title=false&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" alt="image"/>
-    </a>
-    <br/>
-    <a href="https://github.com/Anu26092002">
         <img height="300"  width="600" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Anurag's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Anu26092002&theme=neon-dark&hide_border=true"/>
     </a>
     <br/>
