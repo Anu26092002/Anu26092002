@@ -1,11 +1,11 @@
 <div align="center"> 
-    <h1>Hello! I'm Anurag Ghosh
-        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave gif"> 
-    </h1>
-    <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://github.com/Anu26092002/Anu26092002/blob/output/github-contribution-grid-snake.gif" alt="snake gif" width="auto"/>
     <a/>
+    <br/>
+    <h1>Hello! I'm Anurag Ghosh
+        <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave gif"> 
+    </h1>
 </div>
 
 <div align="center">
