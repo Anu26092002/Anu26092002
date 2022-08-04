@@ -72,7 +72,11 @@
     <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://activity-graph.herokuapp.com/graph?username=Anu26092002&theme=dracula" alt="Anurag's contribution graph" />
-    </a> 
+    </a>
+    <br/>
+    <a href="https://github.com/Anu26092002">
+        <img src="https://github.com/Anu26092002/Anu26092002/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+    </a>
 </div>
 <br/>
    
