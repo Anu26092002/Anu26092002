@@ -92,13 +92,7 @@
     <details>
         <summary><h3><b>🛠️&nbsp;&nbsp;Programming Languages, Frameworks&nbsp;and&nbsp;Tools</b></h3></summary>
         <br/>
-        <p align="center">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" alt="Word" width="40" height="40" title="MS Word"/>
-            &nbsp;
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" alt="Excel" width="40" height="40" title="MS Excel"/>
-            &nbsp;
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg/768px-Microsoft_Office_PowerPoint_%282019%E2%80%93present%29.svg.png" alt="Powerpoitdth" width="40" height="40" title="MS PowerPoint"/>
-            &nbsp;
+        <p align="center"> 
             <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
             &nbsp;
             <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40" title="Python3"/>
