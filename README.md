@@ -6,6 +6,10 @@
     <h1>Hello! I'm Anurag Ghosh
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave gif"> 
     </h1>
+    <br/>
+    <a href="https://github.com/Anu26092002">
+        <img  alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
+    </a>
 </div>
 <div align="center">
     <details>
@@ -52,10 +56,6 @@
 
 <div align="center"> 
     <h3>📊 My Stats</h3>
-    <br/>
-    <a href="https://github.com/Anu26092002">
-        <img  alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
-    </a>
     <br/>
     <a href="https://github.com/Anu26092002">
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
