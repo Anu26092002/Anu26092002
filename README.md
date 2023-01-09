@@ -1,6 +1,6 @@
 <div align="center"> 
     <a href="https://github.com/Anu26092002">
-        <img src="https://github.com/Anu26092002/Anu26092002/blob/output/github-contribution-grid-snake.gif" alt="snake gif" width="auto"/>
+        <img src="https://raw.githubusercontent.com/Anu26092002/Anu26092002/output/github-snake.svg" alt="snake gif" width="auto"/>
     <a/>
     <br/>
     <h1>Hello! I'm Anurag Ghosh
