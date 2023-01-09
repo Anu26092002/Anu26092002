@@ -54,7 +54,7 @@
     <h3>📊 My Stats</h3>
     <br/>
     <a href="https://github.com/Anu26092002">
-        <img height="300"  width="600" alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
+        <img  alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
     </a>
     <br/>
     <a href="https://github.com/Anu26092002">
