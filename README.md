@@ -70,7 +70,7 @@
     </a>
     &nbsp;
     <a href="https://github.com/Anu26092002">
-        <img height="300"  width="400" src="https://github-readme-stats.vercel.app/api?username=Anu26092002&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Stats" />
+        <img height="300"  width="400" src="https://github-readme-stats.vercel.app/api?username=Anu26092002&PAT_1&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Stats" />
     </a>
     <br/>
     <a href="https://github.com/Anu26092002">
