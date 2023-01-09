@@ -7,16 +7,11 @@
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave gif"> 
     </h1>
 </div>
-
 <div align="center">
     <details>
         <summary><b>:hugs:&nbsp;Find Me on</b></summary>
         <br/>
         <p>
-            <a href="https://github.com/Anu260920025">
-                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" alt="Github icon" width="30" height="30"/>
-            </a>
-            &nbsp;
             <a href="https://linkedin.com/in/anurag-g-a01531198" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn icon" width="30" height="30"/>
             </a>
@@ -43,9 +38,7 @@
         </p>
     </details>
 </div>
-
 <br/>
-
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
     &nbsp;
@@ -53,7 +46,6 @@
     &nbsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=Anu26092002" alt="visitors"/>
 </div>
-
 <br/>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
@@ -141,13 +133,6 @@
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Anu26092002" alt="Please refresh the page if the graph doesn't show up."/>
         </a>
 </div>
-<br/>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
-
-<br/>
-<div align="center">
-    <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
-</div>
 
 
