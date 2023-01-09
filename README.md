@@ -54,6 +54,10 @@
     <h3>📊 My Stats</h3>
     <br/>
     <a href="https://github.com/Anu26092002">
+        <img height="300"  width="600" alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
+    </a>
+    <br/>
+    <a href="https://github.com/Anu26092002">
         <img src="https://github-profile-trophy.vercel.app/?username=Anu26092002&theme=darkhub&column=7&margin-w=10&margin-h=10" alt="Anurag's profile trophies" />
     <a/>
     <br/>
@@ -63,10 +67,6 @@
     &nbsp;
     <a href="https://github.com/Anu26092002">
         <img height="300"  width="400" src="https://github-readme-stats.vercel.app/api?username=Anu26092002&PAT_1&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff7ff&icon_color=ffffff&bg_color=151515" alt="Anurag's Stats" />
-    </a>
-    <br/>
-    <a href="https://github.com/Anu26092002">
-        <img height="300"  width="600" alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
     </a>
     <br/>
     <a href="https://github.com/Anu26092002">
