@@ -42,8 +42,6 @@
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
     &nbsp;
-    <img src="https://badges.pufler.dev/commits/monthly/Anu26092002" alt="commits" />
-    &nbsp;
     <img src="https://visitor-badge.glitch.me/badge?page_id=Anu26092002" alt="visitors"/>
 </div>
 <br/>
