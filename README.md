@@ -6,10 +6,6 @@
     <h1>Hello! I'm Anurag Ghosh
         <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave gif"> 
     </h1>
-    <br/>
-    <a href="https://github.com/Anu26092002">
-        <img  alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
-    </a>
 </div>
 <div align="center">
     <details>
@@ -51,7 +47,12 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=Anu26092002" alt="visitors"/>
 </div>
 <br/>
-
+<div align="center"> 
+    <a href="https://github.com/Anu26092002">
+        <img  alt="Anurag's profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anu26092002&theme=radical"/>
+    </a>
+</div>
+    
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#-table-of-contents)
 
 <div align="center"> 
