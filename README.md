@@ -1,6 +1,7 @@
 <div align="center"> 
     <a href="https://github.com/Anu26092002">
-        <img src="https://raw.githubusercontent.com/Anu26092002/Anu26092002/output/github-snake.svg" alt="snake gif" width="auto"/>
+        ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+        ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
     <a/>
     <br/>
     <h1>Hello! I'm Anurag Ghosh
