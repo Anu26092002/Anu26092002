@@ -86,6 +86,7 @@
 <div align="center"> 
     <details>
         <summary><h3><b>🛠️&nbsp;&nbsp;Tech Tools</b></h3></summary>
+        <br/>
         <p align="center"> 
             <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
             &nbsp;
@@ -126,11 +127,11 @@
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
             &nbsp;
         </p>
-    </details>
         <br/>
         <a href="https://profile.codersrank.io/user/Anu26092002/">
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Anu26092002" alt="Please refresh the page if the graph doesn't show up."/>
         </a>
+        </details>
 </div>
 
 
