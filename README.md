@@ -42,7 +42,7 @@
 <div align="center"> 
     <img src="https://komarev.com/ghpvc/?username=Anu26092002&label=Profile%20views&color=1E90FF&style=flat" alt="Profile views" />
     &nbsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Anu26092002](https://hits.dwyl.com/Anu26092002/Anu26092002/Anu26092002.svg?style=flat-square&show=unique))" alt="visitors"/>
+    <img src="https://hits.dwyl.com/Anu26092002/Anu26092002/Anu26092002.svg?style=flat-square&show=unique" alt="visitors"/>
 </div>
 <br/>
 <div align="center"> 
