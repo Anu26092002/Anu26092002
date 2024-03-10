@@ -85,7 +85,7 @@
 
 <div align="center"> 
     <details>
-        <summary><b>🛠️&nbsp;&nbsp;Tech Tools</b></summary>
+        <summary><b>🛠️&nbsp;&nbsp;Programming Languages, Frameworks&nbsp;and&nbsp;Tools</b></summary>
         <br/>
         <p align="center"> 
             <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
