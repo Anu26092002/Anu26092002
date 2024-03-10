@@ -10,7 +10,6 @@
 <div align="center">
     <details>
         <summary><b>:hugs:&nbsp;Find Me on</b></summary>
-        <br/>
         <p>
             <a style="text-decoration:none" href="https://linkedin.com/in/anurag-g-a01531198" target="_blank">
                 <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn icon" width="30" height="30"/>
