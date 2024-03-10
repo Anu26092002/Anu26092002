@@ -73,7 +73,7 @@
     </a>
     <br/>
     <a href="https://github.com/Anu26092002">
-        <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anu26092002&theme=github" alt="Anurag's contribution graph" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anu26092002&theme=github" alt="Anurag's contribution graph" />
     </a>
     <br/>
 </div>
