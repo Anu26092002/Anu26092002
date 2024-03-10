@@ -127,6 +127,7 @@
             <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" title="Firebase"/>
             &nbsp;
         </p>
+    </details>
         <br/>
         <a href="https://profile.codersrank.io/user/Anu26092002/">
         <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Anu26092002" alt="Please refresh the page if the graph doesn't show up."/>
