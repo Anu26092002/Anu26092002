@@ -86,7 +86,6 @@
 <div align="center"> 
     <details>
         <summary><h3><b>🛠️&nbsp;&nbsp;Tech Tools</b></h3></summary>
-        <br/>
         <p align="center"> 
             <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="C" width="40" height="40" title="C"/>
             &nbsp;
